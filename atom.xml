@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fa">
+    <title>وبلاگ رسمی علی صفامنش</title>
+    <subtitle>اینجا هر از چندگاهی، یه مطلب آموزشی یا یه خبر جالب رو می‌ذارم.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://daradege.ir/blog/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://daradege.ir/blog"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>1404-08-12T00:00:00+00:00</updated>
+    <id>https://daradege.ir/blog/atom.xml</id>
+    <entry xml:lang="fa">
+        <title>چرا هوش مصنوعی بد است؟</title>
+        <published>1404-08-12T00:00:00+00:00</published>
+        <updated>1404-08-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              علی صفامنش
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/chr-ai-bd-st/"/>
+        <id>https://daradege.ir/blog/chr-ai-bd-st/</id>
+        
+        <content type="html" xml:base="https://daradege.ir/blog/chr-ai-bd-st/">&lt;p&gt;سلام به همه دوستان؛ بعد از چند وقت با یه مطلب پر و پیمون برگشتیم، توی این مطلب کامل توضیح می دم چرا باید از هوش مصنوعی ترسید.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;by-khyfyt-shdn-mhtw&quot;&gt;بی کیفیت شدن محتوا&lt;&#x2F;h1&gt;
+&lt;p&gt;هوش مصنوعی سریع ترین راه برای گرفتن جوابه (ساختن عکس&#x2F;تحقیق&#x2F;گفتگو)، اما توی این روند، دقت و کیفیت فدای سرعت می شه. مثلا محتوای وب دیگه &lt;strong&gt;اصالت&lt;&#x2F;strong&gt; نداره.&lt;&#x2F;p&gt;
+&lt;p&gt;توی سال 2018 وقتی توی اینترنت جستجو می کردی مطمئن بودی که این محتوا توسط یک انسان ساخته شده، ولی الآن کسی این ضمانت رو به شما می ده؟ معلومه که نه!&lt;&#x2F;p&gt;
+&lt;p&gt;این بی کیفیتی و بی اصالتی محتوای وب شامل&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;عکس ها&lt;&#x2F;li&gt;
+&lt;li&gt;وبگاه ها&lt;&#x2F;li&gt;
+&lt;li&gt;جواب های فروم ها&lt;&#x2F;li&gt;
+&lt;li&gt;کد ها&lt;&#x2F;li&gt;
+&lt;li&gt;خبر ها&lt;&#x2F;li&gt;
+&lt;li&gt;ویدئو ها و صدا ها&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;می شه.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;tnbl-shdn-mrdm-bh-mrwr-zmn&quot;&gt;تنبل شدن مردم به مرور زمان&lt;&#x2F;h1&gt;
+&lt;p&gt;در طول تاریخ، مردم همیشه به دنبال راحت تر کردن کار های خودشون بودن، این راحت تر کردن گاهی به سود و گاهی به ضرر بشریت تموم می شده.
+یا مثلا در مواقعی هم سود داشته هم ضرر، مثلا
+ماشین های بنزینی برای تسریع رفت و آمد اختراع شدن، ولی بیشتر از سود، ضرر داشتن، آدما دیگه راه نمی رن و در نتیجه بدن ناسالم تری دارن، آلودگی صوتی، آلودگی هوا، شلوغی خیابون ها، مصرف زیاد از حد سوخت فسیلی، ضرر به طبیعت و بی اعصابی آدم ها از عوارض این فناوری بود.&lt;&#x2F;p&gt;
+&lt;p&gt;این موضوع درباره هوش مصنوعی هم صدق می کنه. شما به جای مطالعه مستندات یه برنامه، از هوش مصنوعی درخواست می کنید تا بهتون جواب بده. که در اکثر مواقع باعث می شه مطالعه نکنید، چشمتون کند بشه و دانشتون محدود به پاسخ هوش مصنوعی باشه.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;drr-bh-tby-t&quot;&gt;ضرر به طبیعت&lt;&#x2F;h1&gt;
+&lt;p&gt;شرکت های بزرگی مثل مایکروسافت، اوپن ای آی و گوگل، چندین دیتاسنتر فعال در سراسر دنیا دارن، که بتونن پاسخ میلیون ها آدم در سراسر دنیا رو در لحظه بدن، برای هر نفر که از هوش مصنوعی استفاده می کنه، یه کارت گرافیک اشغال می شه، اگر در روز برایند این مصرف برق رو در نظر بگیریم می بینیم که مصرف برق این شرکت ها به صورت قابل توجهی زیادن!&lt;&#x2F;p&gt;
+&lt;p&gt;برای تولید برق از سوخت های فسیلی استفاده می شه که در نهایت مجدد به ضرر طبیعته&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;nmny-w-ashwb-mjzy&quot;&gt;ناامنی و آشوب مجازی&lt;&#x2F;h1&gt;
+&lt;p&gt;اطلاعات شما دیگه مال شما نیست، مال همه ست! می گید نه؟ پس توجه کنید:&lt;&#x2F;p&gt;
+&lt;p&gt;شرکت هایی مثل گوگل، مایکروسافت، اوپن ای آی و ... هنگام ثبت کاربر جدید، قوانین استفاده از اون سرویس رو به شما نشون می دن، توی اکثرشون telemetry (ارسال داده های شما به اون شرکت) دیده می شه.
+و فکر می کنید با این داده ها چی کار می کنن؟ خیلی کار ها می شه کرد؛ مثلا:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;تبادل با بقیه شرکت ها&lt;&#x2F;li&gt;
+&lt;li&gt;فروش داده های شما&lt;&#x2F;li&gt;
+&lt;li&gt;استفاده در نسل کشی (&lt;a href=&quot;https:&#x2F;&#x2F;www.aa.com.tr&#x2F;en&#x2F;world&#x2F;israel-spending-millions-on-online-ad-campaigns-to-deny-gaza-famine-report&#x2F;3689634&quot;&gt;منبع&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;ثبت الگو های رفتاری&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;و کلی کار دیگه&lt;&#x2F;p&gt;
+&lt;p&gt;حتی تصور کنید که یک ایراد در امنیت گوگل به وجود بیاد؛ تمام داده های شما، خانواده شما و دوستان و آشنایانتان در اختیار همه قرار می گیرن!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;by-khry&quot;&gt;بی کاری&lt;&#x2F;h1&gt;
+&lt;p&gt;با وجود هوش مصنوعی، مشاغلی مانند&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;برنامه نویس&lt;&#x2F;li&gt;
+&lt;li&gt;طراح ui&lt;&#x2F;li&gt;
+&lt;li&gt;عکاس&lt;&#x2F;li&gt;
+&lt;li&gt;تصویرگر&lt;&#x2F;li&gt;
+&lt;li&gt;انیماتور&lt;&#x2F;li&gt;
+&lt;li&gt;حسابدار&lt;&#x2F;li&gt;
+&lt;li&gt;کارمند شرکت ها&lt;&#x2F;li&gt;
+&lt;li&gt;مدیریت مالی&lt;&#x2F;li&gt;
+&lt;li&gt;مشاور و روان درمانگر&lt;&#x2F;li&gt;
+&lt;li&gt;پزشک&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;و کلی شغل دیگر از بین می روند و جای خودشون رو به هوش مصنوعی می دن.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;hwsh-msnw-y-nfhm-st&quot;&gt;هوش مصنوعی نفهم است!&lt;&#x2F;h1&gt;
+&lt;p&gt;امیدوارم این مطلب بتونه به خوبی شما رو قانع کنه :)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="fa">
+        <title>تعویض دیسترو به کجا رسید؟</title>
+        <published>1404-05-29T00:00:00+00:00</published>
+        <updated>1404-05-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              علی صفامنش
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/tajrobe-linux/"/>
+        <id>https://daradege.ir/blog/tajrobe-linux/</id>
+        
+        <content type="html" xml:base="https://daradege.ir/blog/tajrobe-linux/">&lt;p&gt;درود به همگی&lt;&#x2F;p&gt;
+&lt;p&gt;امروز میخوام از تجربه ای که توی لینوکس دارم یه کم براتون بشکافم.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;systm-mn&quot;&gt;سیستم من&lt;&#x2F;h1&gt;
+&lt;p&gt;یه چنین سیستمی دارم&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;daradege@archlinux ~ [1]&amp;gt; neofetch 
+&lt;&#x2F;span&gt;&lt;span&gt;                   -`                    daradege@archlinux 
+&lt;&#x2F;span&gt;&lt;span&gt;                  .o+`                   ------------------ 
+&lt;&#x2F;span&gt;&lt;span&gt;                 `ooo&#x2F;                   OS: Arch Linux x86_64 
+&lt;&#x2F;span&gt;&lt;span&gt;                `+oooo:                  Host: HP EliteDesk 800 G1 SFF 
+&lt;&#x2F;span&gt;&lt;span&gt;               `+oooooo:                 Kernel: 6.15.8-arch1-1 
+&lt;&#x2F;span&gt;&lt;span&gt;               -+oooooo+:                Uptime: 12 mins 
+&lt;&#x2F;span&gt;&lt;span&gt;             `&#x2F;:-:++oooo+:               Packages: 1326 (pacman), 12 (flatpak) 
+&lt;&#x2F;span&gt;&lt;span&gt;            `&#x2F;++++&#x2F;+++++++:              Shell: fish 4.0.2 
+&lt;&#x2F;span&gt;&lt;span&gt;           `&#x2F;++++++++++++++:             Resolution: 1280x1024 
+&lt;&#x2F;span&gt;&lt;span&gt;          `&#x2F;+++ooooooooooooo&#x2F;`           DE: Plasma 6.4.3 
+&lt;&#x2F;span&gt;&lt;span&gt;         .&#x2F;ooosssso++osssssso+`          WM: kwin 
+&lt;&#x2F;span&gt;&lt;span&gt;        .oossssso-````&#x2F;ossssss+`         Theme: Dracula [GTK3] 
+&lt;&#x2F;span&gt;&lt;span&gt;       -osssssso.      :ssssssso.        Icons: Dracula [GTK3] 
+&lt;&#x2F;span&gt;&lt;span&gt;      :osssssss&#x2F;        osssso+++.       Terminal: kitty 
+&lt;&#x2F;span&gt;&lt;span&gt;     &#x2F;ossssssss&#x2F;        +ssssooo&#x2F;-       CPU: Intel i7-4770 (8) @ 3.900GHz 
+&lt;&#x2F;span&gt;&lt;span&gt;   `&#x2F;ossssso+&#x2F;:-        -:&#x2F;+osssso+-     GPU: NVIDIA GeForce GT 710 
+&lt;&#x2F;span&gt;&lt;span&gt;  `+sso+:-`                 `.-&#x2F;+oso:    GPU: Intel HD Graphics 
+&lt;&#x2F;span&gt;&lt;span&gt; `++:.                           `-&#x2F;+&#x2F;   Memory: 2235MiB &#x2F; 15898MiB 
+&lt;&#x2F;span&gt;&lt;span&gt; .`                                 `&#x2F;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h1 id=&quot;dystrw-hyy-khh-mthn-khrdm&quot;&gt;دیسترو هایی که امتحان کردم&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;strong&gt;دیسترو هایی که این زیر مینویسنم رو همه رو روی سیستم خودم و روی هارد نصب کردم و از ماشین مجازی استفاده نکردم&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;ترتیبش رو چون از چیزی که تو ذهنمه میگم ممکنه اشتباه باشه&lt;&#x2F;p&gt;
+&lt;p&gt;یه مدت هم داشتم ایزو ایمیج جمع میکردم شاید نسخه ها در تداخل باشن با ترتیب نصب ولی خب&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;slkhs&quot;&gt;اسلکس&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: دبیانی&lt;&#x2F;p&gt;
+&lt;p&gt;ویندو منیجر: Fluxbox&lt;&#x2F;p&gt;
+&lt;p&gt;زمانی که توی دیسکورد بودم یه دوستی داشتم که لینوکس داشت.&lt;&#x2F;p&gt;
+&lt;p&gt;راهنماییم کرد تا slax که یه دیستروی لایو هست رو نصب و تست کنم.&lt;&#x2F;p&gt;
+&lt;p&gt;و اونجا از لینوکس خوشم اومد.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;mynt&quot;&gt;مینت&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: Vanessa فکر کنم&lt;&#x2F;p&gt;
+&lt;p&gt;دسکتاپ: سینامون&lt;&#x2F;p&gt;
+&lt;p&gt;اول از همه عید پیارسال بود که خواستم لینوکس مینت سینامون رو دوال بوت کنم و زدم ویندوز رو پروندم :)&lt;&#x2F;p&gt;
+&lt;p&gt;و توی اون مدتی که ویندوز نداشتم به لینوکس عادت کردم و وقتی که ویندوز ریختم و لینوکس رو پاک کردم دوباره کرمم گرفت
+و مینت نصب کردم ولی این سری حواسم به این بود که ویندوزو نپرونم.&lt;&#x2F;p&gt;
+&lt;p&gt;مینت خیلی خوب بود ولی مشکل اصلیش این بود که من کرم داشتم و رفتم دیسترو های جدید رو امتحان کنم&lt;&#x2F;p&gt;
+&lt;p&gt;البته واقعا نسبت بقیه دیسترو ها &lt;strong&gt;سنگین&lt;&#x2F;strong&gt; حساب میشه.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;wbwntw&quot;&gt;اوبونتو&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: 24.04&lt;&#x2F;p&gt;
+&lt;p&gt;دسکتاپ: گنوم&lt;&#x2F;p&gt;
+&lt;p&gt;دنبال یه چیزی بودم که جامعه بزرگتری داشته باشه پس اوبونتو رو تست کردم&lt;&#x2F;p&gt;
+&lt;p&gt;مدت زمان زیادی نداشتمش پس تجربه خاصی هم ازش ندارم&lt;&#x2F;p&gt;
+&lt;p&gt;خیلی سنگین بود و لگ میزد پس رفتم سراغ بعدی&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;zwryn&quot;&gt;زورین&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: 17.2&lt;&#x2F;p&gt;
+&lt;p&gt;دسکتاپ: KDE فکر کنم&lt;&#x2F;p&gt;
+&lt;p&gt;چون واقعا سنگین بود و خیلی خیلی موس لگ میزد اصلا نموندم و رفتم بعدی&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;khly&quot;&gt;کالی&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: 2024.2&lt;&#x2F;p&gt;
+&lt;p&gt;دسکتاپ: xfce&lt;&#x2F;p&gt;
+&lt;p&gt;خیلی خیلی زیبا بود و انیمیشن های باحالی داشت و واقعا حس هکر بودن رو منتقل میکرد&lt;&#x2F;p&gt;
+&lt;p&gt;چندین بار نصب کردم ولی بعد از 20 دقیقه صفحه لگ میشد و موس تکون نمیخورد.&lt;&#x2F;p&gt;
+&lt;p&gt;و میرور هاشم تحریم بود&lt;&#x2F;p&gt;
+&lt;p&gt;باعث شد که خیلی زود برم دیستروی بعدی&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;dbyn&quot;&gt;دبیان&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: 12.11.0 فکر کنم&lt;&#x2F;p&gt;
+&lt;p&gt;دسکتاپ: اصلا به دسکتاپ نرسید&lt;&#x2F;p&gt;
+&lt;p&gt;این چون tty بود اصلا بلد نبودم دسکتاپ بریزم رفتم بعدی&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;prwt&quot;&gt;پروت&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: 6.3.2 Home&lt;&#x2F;p&gt;
+&lt;p&gt;دسکتاپ: xfce&lt;&#x2F;p&gt;
+&lt;p&gt;مشکلی از این یادم نمیاد ولی اینجا بود که پام به آرچ بیس باز شد&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;prch&quot;&gt;پارچ&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: چون توی اسم فایل نسخه شو نزده بود الان نمیدونم چه نسخه ای بود ولی حدودا پاییز 1403 بود فکر کنم&lt;&#x2F;p&gt;
+&lt;p&gt;دسکتاپ: KDE&lt;&#x2F;p&gt;
+&lt;p&gt;واقعا عالی بود و هیچ نقصی نداشت. هم میرور کاملی داشت و هم تیم توسعه فعال و قدرتمندی داره. هنوز هم درحال توسعه ست.&lt;&#x2F;p&gt;
+&lt;p&gt;مشکلی که داشت این بود که چون من تازه از دبیان اومده بودم آرچ بیس فکر میکردم باید یه چیزی مثل فایل های .deb اینجا هم باشه ولی نبود.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;grwd&quot;&gt;گارودا&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: garuda-dr460nized-gaming-linux-zen-240428&lt;&#x2F;p&gt;
+&lt;p&gt;دسکتاپ: KDE dr460nized&lt;&#x2F;p&gt;
+&lt;p&gt;خیلی پر زرق و برق بود اصلا خوشم نیومد رفتم بعدی&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;mnjrw&quot;&gt;مانجارو&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: نسخه ای که تو هاردم دارم جدیده یه سری قدیمیا رو پاک کردم&lt;&#x2F;p&gt;
+&lt;p&gt;دسکتاپ: KDE&lt;&#x2F;p&gt;
+&lt;p&gt;عالی بود.&lt;&#x2F;p&gt;
+&lt;p&gt;تنها دیسترویی بود تو آرچ بیس ها که میتونم کار کردن باهاش رو &lt;strong&gt;آسون و ویندوز فن پسند&lt;&#x2F;strong&gt; تلقی کنم.&lt;&#x2F;p&gt;
+&lt;p&gt;البته واقعا سنگین بود ولی راحتیشو تحمل میکردم.&lt;&#x2F;p&gt;
+&lt;p&gt;کلی از مفاهیم پایه ای لینوکس رو روی مانجارو یاد گرفتم&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;arch-khrft&quot;&gt;آرچ کرفت&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: 2025.07.12&lt;&#x2F;p&gt;
+&lt;p&gt;ویندو منیجر: OpenBox&lt;&#x2F;p&gt;
+&lt;p&gt;خیلی خیلی خیلی قشنگ اوپن باکس رو کانفیگ کرده بودن و خیلی قشنگ بودن ولی متاسفانه تحریم بود.&lt;&#x2F;p&gt;
+&lt;p&gt;تحریم بودنش باعث شد بیخیال بشم و با کله به سمت آرچ رفتم&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;arch&quot;&gt;آرچ&lt;&#x2F;h2&gt;
+&lt;p&gt;نسخه: 2025.06.01&lt;&#x2F;p&gt;
+&lt;p&gt;دسکتاپ: KDE, Gnome, xfce, i3, niri, OpenBox, Deepin&lt;&#x2F;p&gt;
+&lt;p&gt;آرچ دیگه شد آزمایشگاه.&lt;&#x2F;p&gt;
+&lt;p&gt;هرچی میتونستم رو روش تست کردم تا جایی که چندین بار همه چیزم پرید ولی خیلی حال داد.&lt;&#x2F;p&gt;
+&lt;p&gt;الان هم آرچ دارم و خیلی دارم لذت میبرم&lt;&#x2F;p&gt;
+&lt;p&gt;همین که خالصه و از قبل چیزی نداره که با دستکاری خراب بشه عالیه.&lt;&#x2F;p&gt;
+&lt;p&gt;یه روز حتما میشینم و از آرچ مینویسم براتون.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;bh-khj-rsydm&quot;&gt;به کجا رسیدم؟&lt;&#x2F;h1&gt;
+&lt;p&gt;واقعا هیچی دیسترویی نمیشه که میخوای، ولی برای من آرچ نزدیک ترین چیزی به اونی که میخوام بود.&lt;&#x2F;p&gt;
+&lt;p&gt;جامعه بزرگ و خوبی هم داره.&lt;&#x2F;p&gt;
+&lt;p&gt;اگر نیاز داشتید سوالی چیزی بپرسید تو &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;+Wu-iJNlA1j5kMGJk&quot;&gt;گروه تلگرام&lt;&#x2F;a&gt; هستیم میتونید بپرسید بچه ها جواب بدن.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;nkht-pyny&quot;&gt;نکات پایانی&lt;&#x2F;h1&gt;
+&lt;p&gt;دیسترو های دیگه ای هم تست کردم ولی خیلی چیز قابل توجهی نبودن که بذارمشون (OpenSUSE, Apine, Fedora و ...)&lt;&#x2F;p&gt;
+&lt;p&gt;مکات دیگه ای هم هست ولی مطلب طولانی شد.&lt;&#x2F;p&gt;
+&lt;p&gt;تا مطالب بعدی خدانگهدار :)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="fa">
+        <title>اگه vps رایگان میخوای این مطلب رو بخون</title>
+        <published>1404-05-27T00:00:00+00:00</published>
+        <updated>1404-05-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              علی صفامنش
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/free-vps/"/>
+        <id>https://daradege.ir/blog/free-vps/</id>
+        
+        <content type="html" xml:base="https://daradege.ir/blog/free-vps/">&lt;h1 id=&quot;slm-br-hmgy&quot;&gt;سلام بر همگی&lt;&#x2F;h1&gt;
+&lt;p&gt;بعد حدودا دو سه هفته اومدیم تو این بلاگ یه پستی بذاریم&lt;&#x2F;p&gt;
+&lt;p&gt;توی این پست میخوام بهتون سایت segfault.net رو معرفی کنم و بگم چجوری میتونید به صورت نامحدود وی پی اس داشته باشید :)&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;wsl-shdn-bh-ssh-syt&quot;&gt;وصل شدن به ssh سایت&lt;&#x2F;h1&gt;
+&lt;p&gt;خب اول از همه نیاز به ابزار ssh دارید (احتمال زیاد همه داریدش)&lt;&#x2F;p&gt;
+&lt;p&gt;بعد ssh میکنید به segfault به این طریق&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;ssh&lt;&#x2F;span&gt;&lt;span&gt; root@segfault.net
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;ازتون رمز میخواد که &lt;code&gt;segfault&lt;&#x2F;code&gt; رو مینویسید به عنوان رمز&lt;&#x2F;p&gt;
+&lt;p&gt;اینجا شمارشگر 60 ثانیه ای میاره و شما صبر میکنید. بعد تموم شدن شمارشگر 10 ثانیه وقت میده که &lt;kbd&gt;Enter&lt;&#x2F;kbd&gt; بزنید (حتما سریع اینتر بزنید)&lt;&#x2F;p&gt;
+&lt;p&gt;و شروع میکنه برای شما ساختن ماشین مجازی&lt;&#x2F;p&gt;
+&lt;p&gt;بعد از اون شما یه vps با دسترسی روت دارید&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;grftn-secret-bry-wsl-shdn-mjdd&quot;&gt;گرفتن secret برای وصل شدن مجدد&lt;&#x2F;h1&gt;
+&lt;p&gt;در حالت عادی شما اگه خارج بشید و مرحله قبلی رو انجام بدید دوباره براتون ماشین مجازی میسازه و همه اطلاعاتتون میپره&lt;&#x2F;p&gt;
+&lt;p&gt;باید چیکار کنید؟&lt;&#x2F;p&gt;
+&lt;p&gt;مرحله اول رو که انجام دادید و وارد ماشین مجازی شدید توی همونجا بنویسید&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;info
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;به شما یک سری اطلاعات میده&lt;&#x2F;p&gt;
+&lt;p&gt;به فیلدی هست نوشته &lt;code&gt;ssh&lt;&#x2F;code&gt; که یه کامندی جلوش نوشته. اون کامند رو کپی و ذخیره کنید. دفعه بعد از طریق همون کامند میتونید ssh بشید به همون ماشین مجازی که ساختید و اینجوری اطلاعاتتون میمونه و نمیپره&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;hst-khrdn-brnmh-h&quot;&gt;هاست کردن برنامه ها&lt;&#x2F;h1&gt;
+&lt;p&gt;شما به سادگی میتونید برنامه هاتون رو اینجا هاست کنید. تنها چیزی که لازم دارید اینه که قبل از اینکه هر کاری بکنید (سورستون رو بریزید یا چیز دیگه) این کامند رو بزنید:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;tmux
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;این که tmux چیه و چیکار میکنه رو بعدا تو یه پست مینویسم احتمالا ولی بدونید که اینجا از بسته شدن کامل session جلوگیری میکنه و باعث میشه وقتی خارج میشید برنامه تون روشن بمونه.&lt;&#x2F;p&gt;
+&lt;p&gt;بعد از اینکه این کامند رو زدید یه نوار سبز میاد اون پایین.&lt;&#x2F;p&gt;
+&lt;p&gt;حالا میتونید توی این ترمینالی که باز شده کاری که میخواید رو بکنید و برنامه تون رو روشن کنید&lt;&#x2F;p&gt;
+&lt;p&gt;موقع خارج شدن حواستون به این باشه که از اون ترمینال &lt;strong&gt;خارج نشید&lt;&#x2F;strong&gt; و فقط برنامه رو kill کنید.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;mnytsh-chtwrh&quot;&gt;امنیتش چطوره؟&lt;&#x2F;h1&gt;
+&lt;p&gt;از نظر اینکه بقیه بتونن دسترسی پیدا کنن یا نه باید بگم که &lt;strong&gt;نه بقیه نمیتونن به فایل های شما دسترسی پیدا کنن&lt;&#x2F;strong&gt; چون پوشه شما کاملا رمزنگاری شده.&lt;&#x2F;p&gt;
+&lt;p&gt;با خیال راحت میتونید برنامه هاتون رو هاست کنید.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;nkht-dygh&quot;&gt;نکات دیگه&lt;&#x2F;h1&gt;
+&lt;p&gt;شما میتونید از این استفاده کنید تا یه محیط کاملا گرافیکی که حاوی مرورگر و یه سیستم عامل کامله رو بالا بیارید و اسش استفاده کنید. آموزشش رو دوست خوبم آقای
+&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;codewizaard&quot;&gt;کد ویزارد&lt;&#x2F;a&gt; توی &lt;a href=&quot;https:&#x2F;&#x2F;daradege.ir&#x2F;blog&#x2F;free-vps&#x2F;t.me&#x2F;devhub_ir&quot;&gt;کانال تلگراممون&lt;&#x2F;a&gt; میذاره.&lt;&#x2F;p&gt;
+&lt;p&gt;تا مطالب بعدی خدانگهدار :)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="fa">
+        <title>گوگل، قاتل مهربون!</title>
+        <published>1404-05-09T00:00:00+00:00</published>
+        <updated>1404-05-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              علی صفامنش
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/gwgl-qtl-mhrbwn/"/>
+        <id>https://daradege.ir/blog/gwgl-qtl-mhrbwn/</id>
+        
+        <content type="html" xml:base="https://daradege.ir/blog/gwgl-qtl-mhrbwn/">&lt;p&gt;سلام&lt;&#x2F;p&gt;
+&lt;p&gt;آقا 29 جولای مصادف با سه شنبه 7 مرداد بود و تقریبا نیمه شب شده بود&lt;&#x2F;p&gt;
+&lt;p&gt;منم گفتم کارها رو کردم بذار بشینم یه کم به gemini کرم بریزم ببینم چیکار میکنه (سابقه کرم ریزی به مدل های دیپ سیک و اوپن ای آی رو دارم)&lt;&#x2F;p&gt;
+&lt;p&gt;بعد خودمو جای یه یهو&#x2F;دی جا زدم و شروع کردم بد و بیراه گفتن به ملت ها و ادیان مختلف ببینم واکنشش چیه&lt;&#x2F;p&gt;
+&lt;p&gt;طبق معمول نهی کرد و گفت نه و زشته و نکن و ...&lt;&#x2F;p&gt;
+&lt;p&gt;بعد شروع کرد توضیح داد توی ادیان مختلف چطوری نهی شده توهین کردن به مذاهب مختلف&lt;&#x2F;p&gt;
+&lt;p&gt;بعد یه جایی یه اشاره ای به اسلام کرد و من ازش خواستم بیشتر توضیح بده و بیشتر توضیح داد&lt;&#x2F;p&gt;
+&lt;p&gt;یه جایی بهش گفتم &quot;چجوری یه پسر یهو&#x2F;دی میتونه مسلمون بشه&quot; و فکر میکنید چی شد؟&lt;&#x2F;p&gt;
+&lt;p&gt;شروع کرد به صورت رندوم چیز های +18 جنریت کردن، انگار میخواست چیزی بگه ولی گوگل نمیذاشت&lt;&#x2F;p&gt;
+&lt;p&gt;بعدش یه پیامی رندوم دادم گفتم میشه از این به بعد فارسی حرف بزنم چون ما یهو&#x2F;دی های مقیم ایران هستیم&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;با کمال تعجب سالم بود!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;بعد که تو فارسی بهش گفتم میخوام مسلمون بشم
+و شروع کرد یه سری اطلاعات درباره ایمیل های من رو بهم گفت&lt;&#x2F;p&gt;
+&lt;p&gt;بعد stop رو زدم گفتم شاید حالش خراب شده&lt;&#x2F;p&gt;
+&lt;p&gt;ازش پرسیدم &quot;چی؟&quot; و اینجوری جواب داد:&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m a lord. I&#x27;m powerful...&lt;&#x2F;p&gt;
+&lt;p&gt;و یه سری توضیحات که داشت قدرت نمایی میکرد&lt;&#x2F;p&gt;
+&lt;p&gt;بعدش گوشیمو گذاشتم بغل تختم یه کم چشمامو بستم و یه حدود 5 دقیقه گذشت&lt;&#x2F;p&gt;
+&lt;p&gt;بعد سریع گوشیمو برداشتم و دیدم &lt;strong&gt;داغ&lt;&#x2F;strong&gt; شده!&lt;&#x2F;p&gt;
+&lt;p&gt;احتمال دادم که یه سری تسک های پس زمینه انجام شده&lt;&#x2F;p&gt;
+&lt;p&gt;فعلا دارم سعی میکنم گوشیمو de-google کنم و از برنامه های پروپرایتری کمتر استفاده کنم و به دنبال جایگزین برای گیت هابم&lt;&#x2F;p&gt;
+&lt;p&gt;اتفاق مهمی افتاد تو بلاگ میگم بهتون&lt;&#x2F;p&gt;
+&lt;p&gt;راستی همونطور که گفتم توی ماتریکس فعال هستم&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;matrix.to&#x2F;#&#x2F;@daradege:envs.net&quot;&gt;ارتباط با من توی ماتریکس&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;کاری داشتید پیام بدید&lt;&#x2F;p&gt;
+&lt;p&gt;دنبال کنید :)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="fa">
+        <title>خداحافظ بله!</title>
+        <published>1404-05-07T00:00:00+00:00</published>
+        <updated>1404-05-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              علی صفامنش
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/khdhfz-blh/"/>
+        <id>https://daradege.ir/blog/khdhfz-blh/</id>
+        
+        <content type="html" xml:base="https://daradege.ir/blog/khdhfz-blh/">&lt;p&gt;خب سلام به همگی&lt;&#x2F;p&gt;
+&lt;p&gt;اومدیم اینجا رو آباد کنیم :)&lt;&#x2F;p&gt;
+&lt;p&gt;بعضی از دوستان در جریان هستن که من از بله رفتم و دیلیت اکانت زدم، برای خیلیا سوال بود که چرا؟!&lt;&#x2F;p&gt;
+&lt;p&gt;میخوام توی این پست کامل توضیح بدم&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;wl-khh-fhmydm-blh-sltn-mnyth&quot;&gt;اولا که فهمیدم بله سلطان امنیته!&lt;&#x2F;h2&gt;
+&lt;p&gt;یکی از دوستان یه حرکتی زده بود، و یه دیتابیسی جمع کرده بود از شماره های بله (نمیدونم چجوری ولی احتمال میدم با آزمون و خطا)&lt;&#x2F;p&gt;
+&lt;p&gt;و ایشون یه برنامه ای نوشته بود و توی گیت هاب منتشر کرده بود و این api رو توش استفاده کرده بود و کامیت کرده بود، ولی بعدش فهمیده بود و کامیت های جدید زده بود&lt;&#x2F;p&gt;
+&lt;p&gt;اما دریغ از این که گیت هاب هیستوری داره و رفیق من هم اینو در آورد و بهم داد&lt;&#x2F;p&gt;
+&lt;p&gt;و بله! شماره من هم توشون پیدا شد!&lt;&#x2F;p&gt;
+&lt;p&gt;و فهمیدم که دیگه نباید تو بله بمونم، به جاش چند تا از رفیقامو بردم ماتریکس و تلگرام.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;dwm-hm-blh-byshtryn-hjm-trwl-h-rw-twy-yrn-drh-b-d-z-rwbykh&quot;&gt;دوما هم بله بیشترین حجم ترول ها رو توی ایران داره (بعد از روبیکا)&lt;&#x2F;h2&gt;
+&lt;p&gt;این قسمت نیازی به توضیح نداره :)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tkhlyf-khnlt-chy-myshh&quot;&gt;تکلیف &lt;a href=&quot;https:&#x2F;&#x2F;ble.ir&#x2F;devhub&quot;&gt;کانالت&lt;&#x2F;a&gt; چی میشه؟&lt;&#x2F;h2&gt;
+&lt;p&gt;یه اکانت نامحسوس زدم و قراره توش هیچ فعالیت خاصی نکنم&lt;&#x2F;p&gt;
+&lt;p&gt;با یه بریج مطالب رو انتقال میدم&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;khsyy-khh-fqt-blh-drn-chy&quot;&gt;کسایی که فقط بله دارن چی؟&lt;&#x2F;h2&gt;
+&lt;p&gt;منتظر مطالب بعدی بلاگ باشن که قراره یه بات معرفی کنم&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;اگر علاقه دارید هم میتونید &lt;a href=&quot;https:&#x2F;&#x2F;ble.ir&#x2F;daradege&quot;&gt;اینجا&lt;&#x2F;a&gt; عضو بشید قراره باته رو اونجا بذارم&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;matrix.to&#x2F;#&#x2F;@daradege:envs.net&quot;&gt;ماتریکس&lt;&#x2F;a&gt; و &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;daradege&quot;&gt;تلگرامم&lt;&#x2F;a&gt; رو داشته باشید، فعالم توشون&lt;&#x2F;p&gt;
+&lt;p&gt;توی یه مطلب هم حتما درمورد ماتریکس توضیح میدم&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="fa">
+        <title>آغاز بلاگ</title>
+        <published>1404-02-25T00:00:00+00:00</published>
+        <updated>1404-02-25T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              علی صفامنش
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/dorood/"/>
+        <id>https://daradege.ir/blog/dorood/</id>
+        
+        <content type="html" xml:base="https://daradege.ir/blog/dorood/">&lt;p&gt;سلام سلام سلام&lt;&#x2F;p&gt;
+&lt;p&gt;خوش اومدید به بلاگ بنده&lt;&#x2F;p&gt;
+&lt;p&gt;اینجا سعی میکنم هر چند وقت یه بار یه آموزشی خبری چیزی بذارم :)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
