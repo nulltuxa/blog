@@ -3,11 +3,9 @@ title = "درباره"
 path = "about"
 +++
 
-## پروژه‌ی کیتا فارسی (Kita farsi)
-کیتا فارسی یک قالب متن باز، بر بستر [کیتا](https://github.com/daradege/kita-farsi) برای بلاگ های [زولا](https://getzola.org/)ست
+## سلام!
+من علی صفامنش هستم، یه برنامه نویس، عاشق کامپیوتر و لینوکس فن!
+هرچی که لازمه راجع به من بدونید توی [سایتم](https://daradege.ir) هست.
+شاید اگه وقت کردم بیام اینجا هم از خودم بنویسم.
 
-### لینک های مرتبط
-- [کیتا](https://github.com/st1020/kita)
-- [زولا](https://getzola.org/)
-- [کیتا فارسی](https://github.com/daradege/kita-farsi)
-- [توسعه دهنده](https://github.com/daradege)
+از مطالب بلاگ لذت ببرید :)

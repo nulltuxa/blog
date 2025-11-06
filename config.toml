@@ -1,9 +1,9 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://daradege.ir/kita-farsi"
+base_url = "https://daradege.ir/blog"
 
 # The site title and description; used in feeds by default.
-title = "کیتا فارسی"
-description = "کیتا فارسی یک قالب زیبا و تمیز برای زولا است."
+title = "وبلاگ رسمی علی صفامنش"
+description = "اینجا هر از چندگاهی، یه مطلب آموزشی یا یه خبر جالب رو می‌ذارم."
 
 # The default site author.
 author = "علی صفامنش"
@@ -74,12 +74,12 @@ social_image = "icons/github.svg"
 
 # The profile on home page.
 [extra.profile]
-name = "کیتا فارسی - تم زولا"
-bio = "کیتا فارسی یک قالب زیبا و تمیز برای زولا است."
+name = "وبلاگ رسمی علی صفامنش"
+bio = "اینجا هر از چندگاهی، یه مطلب آموزشی یا یه خبر جالب رو می‌ذارم."
 # The URL of avatar.
-avatar_url = "icons/github.svg"
+avatar_url = "logo.png"
 # Invert color in dark mode.
-avatar_invert = true
+avatar_invert = false
 
 # The social icons below the profile on the home page.
 # The `name` should be the file name of static/icons/*.svg or the icon name of https://simpleicons.org/
@@ -90,6 +90,14 @@ url = "https://github.com/daradege/kita-farsi"
 [[extra.profile.social]]
 name = "matrix"
 url = "https://matrix.to/#/@dr:wiiz.ir"
+
+[[extra.profile.social]]
+name = "telegram"
+url = "https://t.me/daradege"
+
+[[extra.profile.social]]
+name = "mastodon"
+url = "https://techhub.social/@daradege"
 
 [[extra.profile.social]]
 name = "rss"
