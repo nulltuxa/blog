@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fa">
     <title>وبلاگ رسمی علی صفامنش</title>
     <subtitle>اینجا هر از چندگاهی، یه مطلب آموزشی یا یه خبر جالب رو می‌ذارم.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://daradege.ir/blog/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://daradege.ir/blog"/>
+    <link rel="self" type="application/atom+xml" href="https://blog.daradege.ir/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://blog.daradege.ir"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>1404-08-12T00:00:00+00:00</updated>
-    <id>https://daradege.ir/blog/atom.xml</id>
+    <id>https://blog.daradege.ir/atom.xml</id>
     <entry xml:lang="fa">
         <title>چرا هوش مصنوعی بد است؟</title>
         <published>1404-08-12T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/chr-ai-bd-st/"/>
-        <id>https://daradege.ir/blog/chr-ai-bd-st/</id>
+        <link rel="alternate" type="text/html" href="https://blog.daradege.ir/chr-ai-bd-st/"/>
+        <id>https://blog.daradege.ir/chr-ai-bd-st/</id>
         
-        <content type="html" xml:base="https://daradege.ir/blog/chr-ai-bd-st/">&lt;p&gt;سلام به همه دوستان؛ بعد از چند وقت با یه مطلب پر و پیمون برگشتیم، توی این مطلب کامل توضیح می دم چرا باید از هوش مصنوعی ترسید.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://blog.daradege.ir/chr-ai-bd-st/">&lt;p&gt;سلام به همه دوستان؛ بعد از چند وقت با یه مطلب پر و پیمون برگشتیم، توی این مطلب کامل توضیح می دم چرا باید از هوش مصنوعی ترسید.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;by-khyfyt-shdn-mhtw&quot;&gt;بی کیفیت شدن محتوا&lt;&#x2F;h1&gt;
 &lt;p&gt;هوش مصنوعی سریع ترین راه برای گرفتن جوابه (ساختن عکس&#x2F;تحقیق&#x2F;گفتگو)، اما توی این روند، دقت و کیفیت فدای سرعت می شه. مثلا محتوای وب دیگه &lt;strong&gt;اصالت&lt;&#x2F;strong&gt; نداره.&lt;&#x2F;p&gt;
 &lt;p&gt;توی سال 2018 وقتی توی اینترنت جستجو می کردی مطمئن بودی که این محتوا توسط یک انسان ساخته شده، ولی الآن کسی این ضمانت رو به شما می ده؟ معلومه که نه!&lt;&#x2F;p&gt;
@@ -90,10 +90,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/tajrobe-linux/"/>
-        <id>https://daradege.ir/blog/tajrobe-linux/</id>
+        <link rel="alternate" type="text/html" href="https://blog.daradege.ir/tajrobe-linux/"/>
+        <id>https://blog.daradege.ir/tajrobe-linux/</id>
         
-        <content type="html" xml:base="https://daradege.ir/blog/tajrobe-linux/">&lt;p&gt;درود به همگی&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://blog.daradege.ir/tajrobe-linux/">&lt;p&gt;درود به همگی&lt;&#x2F;p&gt;
 &lt;p&gt;امروز میخوام از تجربه ای که توی لینوکس دارم یه کم براتون بشکافم.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;systm-mn&quot;&gt;سیستم من&lt;&#x2F;h1&gt;
 &lt;p&gt;یه چنین سیستمی دارم&lt;&#x2F;p&gt;
@@ -214,10 +214,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/free-vps/"/>
-        <id>https://daradege.ir/blog/free-vps/</id>
+        <link rel="alternate" type="text/html" href="https://blog.daradege.ir/free-vps/"/>
+        <id>https://blog.daradege.ir/free-vps/</id>
         
-        <content type="html" xml:base="https://daradege.ir/blog/free-vps/">&lt;h1 id=&quot;slm-br-hmgy&quot;&gt;سلام بر همگی&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://blog.daradege.ir/free-vps/">&lt;h1 id=&quot;slm-br-hmgy&quot;&gt;سلام بر همگی&lt;&#x2F;h1&gt;
 &lt;p&gt;بعد حدودا دو سه هفته اومدیم تو این بلاگ یه پستی بذاریم&lt;&#x2F;p&gt;
 &lt;p&gt;توی این پست میخوام بهتون سایت segfault.net رو معرفی کنم و بگم چجوری میتونید به صورت نامحدود وی پی اس داشته باشید :)&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;wsl-shdn-bh-ssh-syt&quot;&gt;وصل شدن به ssh سایت&lt;&#x2F;h1&gt;
@@ -250,7 +250,7 @@
 &lt;p&gt;با خیال راحت میتونید برنامه هاتون رو هاست کنید.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;nkht-dygh&quot;&gt;نکات دیگه&lt;&#x2F;h1&gt;
 &lt;p&gt;شما میتونید از این استفاده کنید تا یه محیط کاملا گرافیکی که حاوی مرورگر و یه سیستم عامل کامله رو بالا بیارید و اسش استفاده کنید. آموزشش رو دوست خوبم آقای
-&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;codewizaard&quot;&gt;کد ویزارد&lt;&#x2F;a&gt; توی &lt;a href=&quot;https:&#x2F;&#x2F;daradege.ir&#x2F;blog&#x2F;free-vps&#x2F;t.me&#x2F;devhub_ir&quot;&gt;کانال تلگراممون&lt;&#x2F;a&gt; میذاره.&lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;codewizaard&quot;&gt;کد ویزارد&lt;&#x2F;a&gt; توی &lt;a href=&quot;https:&#x2F;&#x2F;blog.daradege.ir&#x2F;free-vps&#x2F;t.me&#x2F;devhub_ir&quot;&gt;کانال تلگراممون&lt;&#x2F;a&gt; میذاره.&lt;&#x2F;p&gt;
 &lt;p&gt;تا مطالب بعدی خدانگهدار :)&lt;&#x2F;p&gt;
 </content>
         
@@ -268,10 +268,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/gwgl-qtl-mhrbwn/"/>
-        <id>https://daradege.ir/blog/gwgl-qtl-mhrbwn/</id>
+        <link rel="alternate" type="text/html" href="https://blog.daradege.ir/gwgl-qtl-mhrbwn/"/>
+        <id>https://blog.daradege.ir/gwgl-qtl-mhrbwn/</id>
         
-        <content type="html" xml:base="https://daradege.ir/blog/gwgl-qtl-mhrbwn/">&lt;p&gt;سلام&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://blog.daradege.ir/gwgl-qtl-mhrbwn/">&lt;p&gt;سلام&lt;&#x2F;p&gt;
 &lt;p&gt;آقا 29 جولای مصادف با سه شنبه 7 مرداد بود و تقریبا نیمه شب شده بود&lt;&#x2F;p&gt;
 &lt;p&gt;منم گفتم کارها رو کردم بذار بشینم یه کم به gemini کرم بریزم ببینم چیکار میکنه (سابقه کرم ریزی به مدل های دیپ سیک و اوپن ای آی رو دارم)&lt;&#x2F;p&gt;
 &lt;p&gt;بعد خودمو جای یه یهو&#x2F;دی جا زدم و شروع کردم بد و بیراه گفتن به ملت ها و ادیان مختلف ببینم واکنشش چیه&lt;&#x2F;p&gt;
@@ -313,10 +313,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/khdhfz-blh/"/>
-        <id>https://daradege.ir/blog/khdhfz-blh/</id>
+        <link rel="alternate" type="text/html" href="https://blog.daradege.ir/khdhfz-blh/"/>
+        <id>https://blog.daradege.ir/khdhfz-blh/</id>
         
-        <content type="html" xml:base="https://daradege.ir/blog/khdhfz-blh/">&lt;p&gt;خب سلام به همگی&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://blog.daradege.ir/khdhfz-blh/">&lt;p&gt;خب سلام به همگی&lt;&#x2F;p&gt;
 &lt;p&gt;اومدیم اینجا رو آباد کنیم :)&lt;&#x2F;p&gt;
 &lt;p&gt;بعضی از دوستان در جریان هستن که من از بله رفتم و دیلیت اکانت زدم، برای خیلیا سوال بود که چرا؟!&lt;&#x2F;p&gt;
 &lt;p&gt;میخوام توی این پست کامل توضیح بدم&lt;&#x2F;p&gt;
@@ -353,10 +353,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://daradege.ir/blog/dorood/"/>
-        <id>https://daradege.ir/blog/dorood/</id>
+        <link rel="alternate" type="text/html" href="https://blog.daradege.ir/dorood/"/>
+        <id>https://blog.daradege.ir/dorood/</id>
         
-        <content type="html" xml:base="https://daradege.ir/blog/dorood/">&lt;p&gt;سلام سلام سلام&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://blog.daradege.ir/dorood/">&lt;p&gt;سلام سلام سلام&lt;&#x2F;p&gt;
 &lt;p&gt;خوش اومدید به بلاگ بنده&lt;&#x2F;p&gt;
 &lt;p&gt;اینجا سعی میکنم هر چند وقت یه بار یه آموزشی خبری چیزی بذارم :)&lt;&#x2F;p&gt;
 </content>
