@@ -22,6 +22,10 @@ jobs:
       - name: Build site
         run: zola build
 
+      - name: Create CNAME file
+        run: |
+            echo "blog.daradege.ir" > public/CNAME
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
