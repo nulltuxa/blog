@@ -5,8 +5,83 @@
     <link rel="self" type="application/atom+xml" href="https://blog.daradege.ir/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://blog.daradege.ir"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>1404-08-12T00:00:00+00:00</updated>
+    <updated>1404-08-15T00:00:00+00:00</updated>
     <id>https://blog.daradege.ir/atom.xml</id>
+    <entry xml:lang="fa">
+        <title>تجربه من با پارچ لینوکس!</title>
+        <published>1404-08-15T00:00:00+00:00</published>
+        <updated>1404-08-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              علی صفامنش
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.daradege.ir/parch/"/>
+        <id>https://blog.daradege.ir/parch/</id>
+        
+        <content type="html" xml:base="https://blog.daradege.ir/parch/">&lt;p&gt;سلام بر همه دوست داران لینوکس، این دفعه مطلبی که آماده کردم درباره &lt;strong&gt;توزیع &lt;a href=&quot;https:&#x2F;&#x2F;parchlinux.com&quot;&gt;پارچ لینوکس&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; هست، که یه توزیع خفن و آماده ست.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;prch-lynwkhs-chyh&quot;&gt;پارچ لینوکس چیه؟&lt;&#x2F;h1&gt;
+&lt;p&gt;پارچ، یه توزیع لینوکسی مبتنی بر آرچه که علاوه بر تمام ویژگی های آرچ، ویژگی های ذاتی زیادی داره که در ادامه بهش می پردازیم.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;chr-prch&quot;&gt;چرا پارچ؟&lt;&#x2F;h1&gt;
+&lt;p&gt;پارچ برای کساییه که دوست دارن وقتشون هدر نره. تقریبا همه چیز از قبل آماده ست و شما با نصب پارچ، بدون نیاز به هیچ پیکربندی ای یه سیستم آماده دارید.&lt;&#x2F;p&gt;
+&lt;p&gt;یکی از مزایای پارچ نسبت به توزیع های دیگه اینه که سبکه! پارچ لینوکس طوری طراحی شده که در عین سادگی و کاربرپسند بودن بتونه تجربه ای مثل آرچ برای شما فراهم کنه تا بتونید طعم سادگی رو همراه با قدرت آرچ بچشید!&lt;&#x2F;p&gt;
+&lt;p&gt;همچنین پارچ لینوکس به صورت پیش فرض از سه میزکار &lt;a href=&quot;https:&#x2F;&#x2F;gnome.org&quot;&gt;گنوم&lt;&#x2F;a&gt; و &lt;a href=&quot;https:&#x2F;&#x2F;kde.org&quot;&gt;پلاسما&lt;&#x2F;a&gt; و &lt;a href=&quot;https:&#x2F;&#x2F;xfce.org&#x2F;&quot;&gt;xfce&lt;&#x2F;a&gt; پشتیبانی می کنه، هرچند شما می تونید بعدا هر میزکار و مدیرپنجره ای که تمایل داشتید نصب کنید.&lt;&#x2F;p&gt;
+&lt;p&gt;یکی دیگه از مزایای پارچ که برام جالب بود این بود که کار رو ساده کرده، ولی حواسش به این بوده که مثل مانجارو نشه!
+مانجارو اینقدر با آرچ اصلی فاصله گرفته که دیگه جزو ساختار آرچ به حساب نمی آد و یه انشعاب مستقل شناخته می شه، به خاطر همین یه سری برنامه ها روش درست کار نمی کنن. تازه مانجارو بسته ها رو از آرچ دیرتر منتشر می کنه که این کارش باعث می شه وابستگی ها بشکنن و مثلا سر یه به روز رسانی ساده سیستم شما داغون بشه.&lt;&#x2F;p&gt;
+&lt;p&gt;اما پارچ به جای این که بسته های آرچ رو دستکاری کنه، مستقیم از خود آرچ به روز رسانی می کنه که یعنی سیستم شما همیشه به روزه!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;mqysh-b-bqyh-twzy-h&quot;&gt;مقایسه با بقیه توزیع ها&lt;&#x2F;h1&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;ویژگی&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: center&quot;&gt;پارچ&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: center&quot;&gt;مانجارو&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: center&quot;&gt;آرچ&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;نصب ساده و گرافیکی&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;❌&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;مخزن کامل تر و غنی تر&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;❌&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;پشتیبانی از &lt;a href=&quot;https:&#x2F;&#x2F;aur.archlinux.org&quot;&gt;AUR&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;پشتیبانی از تمام نرم افزار های آرچ-پایه&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;نزدیک بودن به آرچ&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;❌&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;سبکی&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;❌&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;استاندارد&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;❌&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;✅&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h1 id=&quot;mzyy-prch-nsbt-bh-arch&quot;&gt;مزایای پارچ نسبت به آرچ&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;میرور داخلی&lt;&#x2F;li&gt;
+&lt;li&gt;سادگی نصب و استفاده&lt;&#x2F;li&gt;
+&lt;li&gt;ابزار های آماده و پیش فرض&lt;&#x2F;li&gt;
+&lt;li&gt;جامعه فارسی و فعال&lt;&#x2F;li&gt;
+&lt;li&gt;اکوسیستم قدرتمند&lt;&#x2F;li&gt;
+&lt;li&gt;قابل اجرا بر روی انواع پردازنده&lt;&#x2F;li&gt;
+&lt;li&gt;دارای نسخه تلفن همراه&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;mzyy-prch-nsbt-bh-mnjrw&quot;&gt;مزایای پارچ نسبت به مانجارو&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;سبک&lt;&#x2F;li&gt;
+&lt;li&gt;خالص&lt;&#x2F;li&gt;
+&lt;li&gt;استاندارد&lt;&#x2F;li&gt;
+&lt;li&gt;سازگاری با آرچ&lt;&#x2F;li&gt;
+&lt;li&gt;ساختار منظم iso&lt;&#x2F;li&gt;
+&lt;li&gt;حجم دانلود کمتر&lt;&#x2F;li&gt;
+&lt;li&gt;و راستی، پارچ مثل مانجارو به جایی &lt;a href=&quot;https:&#x2F;&#x2F;www.linux.org&#x2F;threads&#x2F;manjaro-accidently-ddosed-the-aur.34248&#x2F;&quot;&gt;دیداس&lt;&#x2F;a&gt; نمی زنه :)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;khs-hy-prch&quot;&gt;عکس های پارچ&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;blog.daradege.ir&#x2F;parch&#x2F;parch-gnome.png&quot; alt=&quot;پارچ گنوم&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;blog.daradege.ir&#x2F;parch&#x2F;parch-xfce.jpg&quot; alt=&quot;پارچ xfce&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;blog.daradege.ir&#x2F;parch&#x2F;parch-plasma.png&quot; alt=&quot;پارچ پلاسما&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;dnlwd-prch&quot;&gt;دانلود پارچ&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;parchlinux.com&#x2F;en&#x2F;download&#x2F;plasma&quot;&gt;&lt;img alt=&quot;دریافت پارچ پلاسما&quot; src=&quot;getparch-plasma.png&quot; width=&quot;200&quot;&#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;parchlinux.com&#x2F;en&#x2F;download&#x2F;gnome&quot;&gt;&lt;img alt=&quot;دریافت پارچ گنوم&quot; src=&quot;getparch-gnome.png&quot; width=&quot;200&quot;&#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;mirror.parchlinux.com&#x2F;beta&#x2F;XFCE&#x2F;ParchLinux-XFCE-latest.iso&quot;&gt;&lt;img alt=&quot;دریافت پارچ xfce&quot; src=&quot;getparch-xfce.png&quot; width=&quot;200&quot;&#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;mshkhst-prwjh&quot;&gt;مشخصات پروژه&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;parchlinux.com&quot;&gt;وبسایت&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.parchlinux.com&quot;&gt;فروم&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;distrowatch.com&#x2F;table.php?distribution=parch&quot;&gt;صفحه در distrowatch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;parchlinux&quot;&gt;کانال تلگرام&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;wiki.parchlinux.com&quot;&gt;ویکی&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="fa">
         <title>چرا هوش مصنوعی بد است؟</title>
         <published>1404-08-12T00:00:00+00:00</published>

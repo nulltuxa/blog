@@ -36,6 +36,10 @@
         <loc>https://blog.daradege.ir/page/2/</loc>
     </url>
     <url>
+        <loc>https://blog.daradege.ir/parch/</loc>
+        <lastmod>1404-08-15</lastmod>
+    </url>
+    <url>
         <loc>https://blog.daradege.ir/projects/</loc>
     </url>
     <url>
@@ -124,6 +128,18 @@
     </url>
     <url>
         <loc>https://blog.daradege.ir/tags/nqd/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://blog.daradege.ir/tags/parch/</loc>
+    </url>
+    <url>
+        <loc>https://blog.daradege.ir/tags/parch/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://blog.daradege.ir/tags/prch/</loc>
+    </url>
+    <url>
+        <loc>https://blog.daradege.ir/tags/prch/page/1/</loc>
     </url>
     <url>
         <loc>https://blog.daradege.ir/tags/pymrsn/</loc>
