@@ -24,7 +24,7 @@ jobs:
 
       - name: Create CNAME file
         run: |
-            echo "blog.daradege.ir" > public/CNAME
+            echo "blog.nulltux.ir" > public/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
