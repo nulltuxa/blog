@@ -85,15 +85,15 @@ avatar_invert = false
 # The `name` should be the file name of static/icons/*.svg or the icon name of https://simpleicons.org/
 [[extra.profile.social]]
 name = "github"
-url = "https://github.com/daradege/kita-farsi"
+url = "https://github.com/nulltuxa/kita-farsi"
 
 [[extra.profile.social]]
 name = "matrix"
-url = "https://matrix.to/#/@dr:wiiz.ir"
+url = "https://matrix.to/#/@nulltux:envs.net"
 
 [[extra.profile.social]]
 name = "telegram"
-url = "https://t.me/daradege"
+url = "https://t.me/nulltux"
 
 [[extra.profile.social]]
 name = "mastodon"
