@@ -1,7 +1,49 @@
 [[project]]
 name = "کیتا فارسی"
 desc = "کیتا فارسی یک قالب زیبا، ساده و روان برای زولا است."
-tags = ["بلاگ", "زولا", "فارسی", "قالب", "زولا", "فارسی", "کیتا", "فارسی", "کیتا فارسی"]
-links = [
-    { name = "گیت‌هاب", url = "https://github.com/daradege/kita-farsi" }
+tags = [
+  "بلاگ",
+  "زولا",
+  "فارسی",
+  "قالب",
+  "زولا",
+  "فارسی",
+  "کیتا",
+  "فارسی",
+  "کیتا فارسی"
 ]
+
+  [[project.links]]
+  name = "گیت‌هاب"
+  url = "https://github.com/nulltuxa/kita-farsi"
+
+[[project]]
+name = "پایروبله"
+desc = "یک کتابخانه پایتون برای توسعه ربات های بله به ساده ترین شیوه ممکن."
+tags = [ "بات", "ربات", "بله", "پایتون", "پایروبله", "کتابخانه" ]
+
+  [[project.links]]
+  name = "گیت‌هاب"
+  url = "https://github.com/pyrobale/pyrobale"
+
+  [[project.links]]
+  name = "وب‌گاه"
+  url = "https://pyrobale.ir"
+
+  [[project.links]]
+  name = "مستندات"
+  url = "https://docs.pyrobale.ir"
+
+[[project]]
+name = "فاسپ!"
+desc = "شیوه جدیدی برای ساختن نمایه های اینترنتی!"
+tags = [ "بله", "فاسپ", "آزاد", "نمایه", "پروفایل" ]
+
+  [[project.links]]
+  name = "گیت‌هاب"
+  url = "https://github.com/nulltuxa/fosp"
+
+  [[project.links]]
+  name = "وب‌گاه"
+  url = "https://fosp.ir"
+
