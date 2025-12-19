@@ -129,14 +129,14 @@ license_url = "https://creativecommons.org/licenses/by-sa/4.0/deed"
 # The giscus comment options, only available when comment is enabled.
 [extra.giscus]
 repo = "nulltuxa/blog"
-repo_id = ""
-category = ""
-category_id = ""
+repo_id = "R_kgDOQQV0Gw"
+category = "Announcements"
+category_id = "DIC_kwDOQQV0G84C0AQ0"
 mapping = "pathname"
 strict = 1
-reactions_enabled = 0
+reactions_enabled = 1
 emit_metadata = 0
 input_position = "top"
-theme = "light"
+theme = "dark"
 lang = "en"
 loading = "lazy"
