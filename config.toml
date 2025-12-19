@@ -2,8 +2,8 @@
 base_url = "https://nulltux.ir"
 
 # The site title and description; used in feeds by default.
-title = "وبلاگ رسمی علی صفامنش"
-description = "اینجا هر از چندگاهی، یه مطلب آموزشی یا یه خبر جالب رو می‌ذارم."
+title = "علی صفامنش"
+description = "علی صفامنش، برنامه نویس Full-Stack، طرفدار آزادی نرم‌افزار، عضو تیم توسعه پارچ گنو/لینوکس."
 
 # The default site author.
 author = "علی صفامنش"
@@ -74,8 +74,8 @@ social_image = "icons/github.svg"
 
 # The profile on home page.
 [extra.profile]
-name = "وبلاگ رسمی علی صفامنش"
-bio = "اینجا هر از چندگاهی، یه مطلب آموزشی یا یه خبر جالب رو می‌ذارم."
+name = "علی صفامنش"
+bio = "علی صفامنش، برنامه نویس Full-Stack، طرفدار آزادی نرم‌افزار، عضو تیم توسعه پارچ گنو/لینوکس."
 # The URL of avatar.
 avatar_url = "logo.png"
 # Invert color in dark mode.
@@ -105,7 +105,7 @@ url = "$BASE_URL/atom.xml"
 
 # The top menu.
 [[extra.menu]]
-name = "پروژه ها"
+name = "پروژه‌ها"
 url = "$BASE_URL/projects"
 
 [[extra.menu]]
@@ -113,7 +113,7 @@ name = "آرشیو"
 url = "$BASE_URL/archive"
 
 [[extra.menu]]
-name = "تگ ها"
+name = "برچسب‌ها"
 url = "$BASE_URL/tags"
 
 [[extra.menu]]

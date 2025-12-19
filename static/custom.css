@@ -6,4 +6,6 @@ pre, code {
 body {
     direction: rtl;
 }
-
+p {
+  text-align: right;
+}
