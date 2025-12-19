@@ -49,7 +49,7 @@ math = false
 # Enable mermaid support globally.
 mermaid = false
 # Enable comment support globally.
-comment = false
+comment = true
 # Enable floating table of contents on the right side of the post page.
 side_toc = true
 # The URL of social image.
@@ -128,7 +128,7 @@ license_url = "https://creativecommons.org/licenses/by-sa/4.0/deed"
 
 # The giscus comment options, only available when comment is enabled.
 [extra.giscus]
-repo = ""
+repo = "nulltuxa/blog"
 repo_id = ""
 category = ""
 category_id = ""
