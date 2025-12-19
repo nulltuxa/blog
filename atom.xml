@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fa">
-    <title>وبلاگ رسمی علی صفامنش</title>
-    <subtitle>اینجا هر از چندگاهی، یه مطلب آموزشی یا یه خبر جالب رو می‌ذارم.</subtitle>
+    <title>علی صفامنش</title>
+    <subtitle>علی صفامنش، برنامه نویس Full-Stack، طرفدار آزادی نرم‌افزار، عضو تیم توسعه پارچ گنو&#x2F;لینوکس.</subtitle>
     <link rel="self" type="application/atom+xml" href="https://nulltux.ir/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://nulltux.ir"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
@@ -153,7 +153,7 @@
         
     </entry>
     <entry xml:lang="fa">
-        <title>تعویض دیسترو به کجا رسید؟</title>
+        <title>تعویض توزیع به کجا رسید؟</title>
         <published>1404-05-29T00:00:00+00:00</published>
         <updated>1404-05-29T00:00:00+00:00</updated>
         
@@ -169,32 +169,27 @@
         <id>https://nulltux.ir/tajrobe-linux/</id>
         
         <content type="html" xml:base="https://nulltux.ir/tajrobe-linux/">&lt;p&gt;درود به همگی&lt;&#x2F;p&gt;
-&lt;p&gt;امروز میخوام از تجربه ای که توی لینوکس دارم یه کم براتون بشکافم.&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;systm-mn&quot;&gt;سیستم من&lt;&#x2F;h1&gt;
-&lt;p&gt;یه چنین سیستمی دارم&lt;&#x2F;p&gt;
-&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;daradege@archlinux ~ [1]&amp;gt; neofetch 
-&lt;&#x2F;span&gt;&lt;span&gt;                   -`                    daradege@archlinux 
-&lt;&#x2F;span&gt;&lt;span&gt;                  .o+`                   ------------------ 
-&lt;&#x2F;span&gt;&lt;span&gt;                 `ooo&#x2F;                   OS: Arch Linux x86_64 
-&lt;&#x2F;span&gt;&lt;span&gt;                `+oooo:                  Host: HP EliteDesk 800 G1 SFF 
-&lt;&#x2F;span&gt;&lt;span&gt;               `+oooooo:                 Kernel: 6.15.8-arch1-1 
-&lt;&#x2F;span&gt;&lt;span&gt;               -+oooooo+:                Uptime: 12 mins 
-&lt;&#x2F;span&gt;&lt;span&gt;             `&#x2F;:-:++oooo+:               Packages: 1326 (pacman), 12 (flatpak) 
-&lt;&#x2F;span&gt;&lt;span&gt;            `&#x2F;++++&#x2F;+++++++:              Shell: fish 4.0.2 
-&lt;&#x2F;span&gt;&lt;span&gt;           `&#x2F;++++++++++++++:             Resolution: 1280x1024 
-&lt;&#x2F;span&gt;&lt;span&gt;          `&#x2F;+++ooooooooooooo&#x2F;`           DE: Plasma 6.4.3 
-&lt;&#x2F;span&gt;&lt;span&gt;         .&#x2F;ooosssso++osssssso+`          WM: kwin 
-&lt;&#x2F;span&gt;&lt;span&gt;        .oossssso-````&#x2F;ossssss+`         Theme: Dracula [GTK3] 
-&lt;&#x2F;span&gt;&lt;span&gt;       -osssssso.      :ssssssso.        Icons: Dracula [GTK3] 
-&lt;&#x2F;span&gt;&lt;span&gt;      :osssssss&#x2F;        osssso+++.       Terminal: kitty 
-&lt;&#x2F;span&gt;&lt;span&gt;     &#x2F;ossssssss&#x2F;        +ssssooo&#x2F;-       CPU: Intel i7-4770 (8) @ 3.900GHz 
-&lt;&#x2F;span&gt;&lt;span&gt;   `&#x2F;ossssso+&#x2F;:-        -:&#x2F;+osssso+-     GPU: NVIDIA GeForce GT 710 
-&lt;&#x2F;span&gt;&lt;span&gt;  `+sso+:-`                 `.-&#x2F;+oso:    GPU: Intel HD Graphics 
-&lt;&#x2F;span&gt;&lt;span&gt; `++:.                           `-&#x2F;+&#x2F;   Memory: 2235MiB &#x2F; 15898MiB 
-&lt;&#x2F;span&gt;&lt;span&gt; .`                                 `&#x2F;
+&lt;p&gt;امروز میخوام از تجربه ای که توی استفاده از توزیع های گنو&#x2F;لینوکس دارم یه کم براتون بشکافم.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;smnhy-mn&quot;&gt;سامانه‌ی من&lt;&#x2F;h1&gt;
+&lt;p&gt;یه چنین سامانه‌ای دارم&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;OS: Parch Linux x86_64 s
+&lt;&#x2F;span&gt;&lt;span&gt;Host: Hewlett-Packard 1998 
+&lt;&#x2F;span&gt;&lt;span&gt;Kernel: 6.17.9-arch1-1 
+&lt;&#x2F;span&gt;&lt;span&gt;Uptime: 10 mins 
+&lt;&#x2F;span&gt;&lt;span&gt;Packages: 1252 (pacman) 
+&lt;&#x2F;span&gt;&lt;span&gt;Shell: zsh 5.9 
+&lt;&#x2F;span&gt;&lt;span&gt;Resolution: 1280x1024 
+&lt;&#x2F;span&gt;&lt;span&gt;DE: Plasma 6.5.3 (Wayland) 
+&lt;&#x2F;span&gt;&lt;span&gt;Theme: Breeze-Dark [GTK2], Breeze [GTK3] 
+&lt;&#x2F;span&gt;&lt;span&gt;Icons: breeze-dark [GTK2&#x2F;3] 
+&lt;&#x2F;span&gt;&lt;span&gt;Terminal: konsole 
+&lt;&#x2F;span&gt;&lt;span&gt;CPU: Intel i7-4770 (8) @ 3.900GHz 
+&lt;&#x2F;span&gt;&lt;span&gt;GPU: NVIDIA GeForce GT 710 
+&lt;&#x2F;span&gt;&lt;span&gt;GPU: Intel EliteDesk 800 G1 
+&lt;&#x2F;span&gt;&lt;span&gt;Memory: 2739MiB &#x2F; 15898MiB 
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
-&lt;h1 id=&quot;dystrw-hyy-khh-mthn-khrdm&quot;&gt;دیسترو هایی که امتحان کردم&lt;&#x2F;h1&gt;
-&lt;p&gt;&lt;strong&gt;دیسترو هایی که این زیر مینویسنم رو همه رو روی سیستم خودم و روی هارد نصب کردم و از ماشین مجازی استفاده نکردم&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;twzy-hyy-khh-mthn-khrdm&quot;&gt;توزیع هایی که امتحان کردم&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;strong&gt;توزیع هایی که این زیر مینویسنم رو همه رو روی سیستم خودم و روی هارد نصب کردم و از ماشین مجازی استفاده نکردم&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;ترتیبش رو چون از چیزی که تو ذهنمه میگم ممکنه اشتباه باشه&lt;&#x2F;p&gt;
 &lt;p&gt;یه مدت هم داشتم ایزو ایمیج جمع میکردم شاید نسخه ها در تداخل باشن با ترتیب نصب ولی خب&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;slkhs&quot;&gt;اسلکس&lt;&#x2F;h2&gt;
@@ -240,7 +235,7 @@
 &lt;p&gt;نسخه: چون توی اسم فایل نسخه شو نزده بود الان نمیدونم چه نسخه ای بود ولی حدودا پاییز 1403 بود فکر کنم&lt;&#x2F;p&gt;
 &lt;p&gt;دسکتاپ: KDE&lt;&#x2F;p&gt;
 &lt;p&gt;واقعا عالی بود و هیچ نقصی نداشت. هم میرور کاملی داشت و هم تیم توسعه فعال و قدرتمندی داره. هنوز هم درحال توسعه ست.&lt;&#x2F;p&gt;
-&lt;p&gt;مشکلی که داشت این بود که چون من تازه از دبیان اومده بودم آرچ بیس فکر میکردم باید یه چیزی مثل فایل های .deb اینجا هم باشه ولی نبود.&lt;&#x2F;p&gt;
+&lt;p&gt;هنوز هم از پارچ استفاده می‌کنم، ترکیب راحتی و سادگی در عین بهره‌مند بودن از قدرت آرچ فوق‌العاده‌ست.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;grwd&quot;&gt;گارودا&lt;&#x2F;h2&gt;
 &lt;p&gt;نسخه: garuda-dr460nized-gaming-linux-zen-240428&lt;&#x2F;p&gt;
 &lt;p&gt;دسکتاپ: KDE dr460nized&lt;&#x2F;p&gt;
@@ -262,16 +257,12 @@
 &lt;p&gt;دسکتاپ: KDE, Gnome, xfce, i3, niri, OpenBox, Deepin&lt;&#x2F;p&gt;
 &lt;p&gt;آرچ دیگه شد آزمایشگاه.&lt;&#x2F;p&gt;
 &lt;p&gt;هرچی میتونستم رو روش تست کردم تا جایی که چندین بار همه چیزم پرید ولی خیلی حال داد.&lt;&#x2F;p&gt;
-&lt;p&gt;الان هم آرچ دارم و خیلی دارم لذت میبرم&lt;&#x2F;p&gt;
-&lt;p&gt;همین که خالصه و از قبل چیزی نداره که با دستکاری خراب بشه عالیه.&lt;&#x2F;p&gt;
-&lt;p&gt;یه روز حتما میشینم و از آرچ مینویسم براتون.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;bh-khj-rsydm&quot;&gt;به کجا رسیدم؟&lt;&#x2F;h1&gt;
-&lt;p&gt;واقعا هیچی دیسترویی نمیشه که میخوای، ولی برای من آرچ نزدیک ترین چیزی به اونی که میخوام بود.&lt;&#x2F;p&gt;
+&lt;p&gt;واقعا هیچی توزیعی نمیشه که میخوای، ولی برای من پارچ نزدیک ترین چیزی به اونی که میخوام بود.&lt;&#x2F;p&gt;
 &lt;p&gt;جامعه بزرگ و خوبی هم داره.&lt;&#x2F;p&gt;
-&lt;p&gt;اگر نیاز داشتید سوالی چیزی بپرسید تو &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;+Wu-iJNlA1j5kMGJk&quot;&gt;گروه تلگرام&lt;&#x2F;a&gt; هستیم میتونید بپرسید بچه ها جواب بدن.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;nkht-pyny&quot;&gt;نکات پایانی&lt;&#x2F;h1&gt;
-&lt;p&gt;دیسترو های دیگه ای هم تست کردم ولی خیلی چیز قابل توجهی نبودن که بذارمشون (OpenSUSE, Apine, Fedora و ...)&lt;&#x2F;p&gt;
-&lt;p&gt;مکات دیگه ای هم هست ولی مطلب طولانی شد.&lt;&#x2F;p&gt;
+&lt;p&gt;دیسترو های دیگه ای هم تست کردم ولی خیلی چیز قابل توجهی نبودن که بذارمشون (OpenSUSE, Alpine, Fedora و ...)&lt;&#x2F;p&gt;
+&lt;p&gt;نکات دیگه ای هم هست ولی مطلب طولانی شد.&lt;&#x2F;p&gt;
 &lt;p&gt;تا مطالب بعدی خدانگهدار :)&lt;&#x2F;p&gt;
 </content>
         
@@ -324,8 +315,7 @@
 &lt;p&gt;از نظر اینکه بقیه بتونن دسترسی پیدا کنن یا نه باید بگم که &lt;strong&gt;نه بقیه نمیتونن به فایل های شما دسترسی پیدا کنن&lt;&#x2F;strong&gt; چون پوشه شما کاملا رمزنگاری شده.&lt;&#x2F;p&gt;
 &lt;p&gt;با خیال راحت میتونید برنامه هاتون رو هاست کنید.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;nkht-dygh&quot;&gt;نکات دیگه&lt;&#x2F;h1&gt;
-&lt;p&gt;شما میتونید از این استفاده کنید تا یه محیط کاملا گرافیکی که حاوی مرورگر و یه سیستم عامل کامله رو بالا بیارید و اسش استفاده کنید. آموزشش رو دوست خوبم آقای
-&lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;codewizaard&quot;&gt;کد ویزارد&lt;&#x2F;a&gt; توی &lt;a href=&quot;https:&#x2F;&#x2F;nulltux.ir&#x2F;free-vps&#x2F;t.me&#x2F;devhub_ir&quot;&gt;کانال تلگراممون&lt;&#x2F;a&gt; میذاره.&lt;&#x2F;p&gt;
+&lt;p&gt;شما میتونید از این استفاده کنید تا یه محیط کاملا گرافیکی که حاوی مرورگر و یه سیستم عامل کامله رو بالا بیارید و اسش استفاده کنید.&lt;&#x2F;p&gt;
 &lt;p&gt;تا مطالب بعدی خدانگهدار :)&lt;&#x2F;p&gt;
 </content>
         
