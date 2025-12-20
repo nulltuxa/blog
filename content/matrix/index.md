@@ -4,9 +4,10 @@ date = "1404-09-29"
 description = "ماتریکس یه پروتکل (شیوه‌نامه) برای پیام‌رسانیه که خیلی امنه."
 [taxonomies]
 tags = ["ماتریکس","پیام رسان","متن باز","نرم افزار آزاد"]
+[extra]
+cover.image = "matrix/matrix.png"
+cover.alt = "ماتریکس"
 +++
-
-![matrix website](matrix.png)
 
 # [ماتریکس](https://matrix.org)، انقلاب ارتباطات دیجیتال!
 
