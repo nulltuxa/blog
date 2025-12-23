@@ -3,7 +3,7 @@ description = "Kita is a clean, elegant and simple blog theme for Zola."
 license = "MIT"
 homepage = "https://github.com/nulltux/kita-farsi"
 min_version = "0.17.0"
-demo = "https://nulltux.ir/kitafarsi"
+demo = "https://nulltux.ir/"
 
 [author]
 name = "daradege"
